@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="lib" path="C:/Users/sebas/OneDrive/Desktop/Enrique/Meine Plugins/NoteBlockAPI-1.2.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/sebas/OneDrive/Desktop/Enrique/Meine Plugins/PermissionsEx-1.23.4.jar"/>
+	<classpathentry kind="lib" path="C:/Users/sebas/OneDrive/Desktop/Enrique/Meine Plugins/WGRegionEvents.jar"/>
+	<classpathentry kind="lib" path="C:/Users/sebas/OneDrive/Desktop/Enrique/Meine Plugins/worldedit-bukkit-6.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/sebas/OneDrive/Desktop/Enrique/Meine Plugins/worldguard-6.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/sebas/OneDrive/Desktop/Enrique/Meine Plugins/EffectLib-5.5.jar"/>
+	<classpathentry kind="lib" path="C:/Users/sebas/OneDrive/Desktop/Enrique/Meine Plugins/Coins.jar"/>
+	<classpathentry kind="lib" path="C:/Users/sebas/OneDrive/Desktop/Enrique/Meine Plugins/BossBarAPI.jar"/>
+	<classpathentry kind="lib" path="C:/Users/sebas/OneDrive/Desktop/Enrique/Meine Plugins/spigot-1.8.8.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>

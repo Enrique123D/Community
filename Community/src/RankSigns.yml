@@ -1,0 +1,20 @@
+MySQL:
+  Host: localhost
+  Port: port
+  Datenbank: database
+  Benutzername: username
+  Passwort: password
+Heads:
+  YouTuber:
+  Builder:
+  Developer:
+  Moderator:
+  SrModerator:
+  Administrator:
+Signs:
+  YouTuber:
+  Builder:
+  Developer:
+  Moderator:
+  SrModerator:
+  Administrator:

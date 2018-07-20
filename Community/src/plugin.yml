@@ -1,0 +1,57 @@
+name: TraidioNET-Traiunity_V3
+version: 1.0
+author: Enrique123D
+main: me.TraiUnity.Main
+
+commands:
+   ccall:
+      aliases: [clearchatall, chatclearall]
+   ccme:
+      aliases: [clearchatme, chatclearme]
+   build:
+      aliases: [edit, editor, bauen]
+   fly:
+      aliases: [flying, fliegen]
+   gamemode:
+      aliases: [gm]
+   skull:
+   invsee:
+   kill:
+   opme:
+   deopme:
+   rename:
+   teleportall:
+      aliases: [tpall, allteleport]
+   teleporthere:
+      aliases: [tphere, hereteleport]
+   vanish:
+      aliases: [v, verstecken]
+   globalmute:
+      aliases: [glm]
+   cevent:
+      aliases: [verlosung]
+   kickall:
+   setwarp:
+   delwarp:
+   lagg:
+   diff:
+      aliases: [schwierigkeit, difficulty]
+   nac:
+   seteffekte:
+   taschenrechner:
+      aliases: [tr]
+   discoboots:
+   einstellungen:
+   screenbox:
+   verstecken:
+   ride:
+   speed:
+   ssp:
+   secret:
+   setevent:
+   settb:
+   cps:
+   getping:
+   setsign:
+   conline:
+   cteam:
